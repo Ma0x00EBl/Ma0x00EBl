@@ -1,3 +1,8 @@
+Maël
+🇫🇷 & 🇬🇧
+Will make a game with Godot "soon"
+
+<!--
 - 👋 Hi, my name is Maël
 - 🌐 I speak both 🇫🇷 and 🇬🇧
 - 🎓 Higer National Diploma - IT services for organizations (BTS SIO, France)
@@ -7,7 +12,7 @@
   - 🐘 PHP
 - 🛠️ Currently working on a video game made only using python
 
-<!---
+
 - 👋 Hi, I’m @Ma0x00EBl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
