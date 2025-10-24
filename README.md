@@ -1,6 +1,5 @@
-Maël
+Maël,
 🇫🇷 & 🇬🇧
-Will make a game with Godot "soon"
 
 <!--
 - 👋 Hi, my name is Maël
